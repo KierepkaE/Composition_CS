@@ -1,0 +1,11 @@
+/Volumes/Transcend/c#/composition/obj/Debug/netcoreapp3.0/composition.csprojAssemblyReference.cache
+/Volumes/Transcend/c#/composition/obj/Debug/netcoreapp3.0/composition.AssemblyInfoInputs.cache
+/Volumes/Transcend/c#/composition/obj/Debug/netcoreapp3.0/composition.AssemblyInfo.cs
+/Volumes/Transcend/c#/composition/bin/Debug/netcoreapp3.0/composition
+/Volumes/Transcend/c#/composition/bin/Debug/netcoreapp3.0/composition.deps.json
+/Volumes/Transcend/c#/composition/bin/Debug/netcoreapp3.0/composition.runtimeconfig.json
+/Volumes/Transcend/c#/composition/bin/Debug/netcoreapp3.0/composition.runtimeconfig.dev.json
+/Volumes/Transcend/c#/composition/bin/Debug/netcoreapp3.0/composition.dll
+/Volumes/Transcend/c#/composition/bin/Debug/netcoreapp3.0/composition.pdb
+/Volumes/Transcend/c#/composition/obj/Debug/netcoreapp3.0/composition.dll
+/Volumes/Transcend/c#/composition/obj/Debug/netcoreapp3.0/composition.pdb
